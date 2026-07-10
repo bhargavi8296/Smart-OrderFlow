@@ -1,0 +1,16 @@
+.git
+.github
+.idea
+.vscode
+
+target
+frontend
+node_modules
+
+*.log
+*.zip
+
+.env
+frontend/.env
+
+README.md
