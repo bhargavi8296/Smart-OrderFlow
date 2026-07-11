@@ -95,4 +95,4 @@ docker compose up --build
 
 ## Author
 
-**Aayush Kumar Singh**
+**Bhargavi Goyal**
