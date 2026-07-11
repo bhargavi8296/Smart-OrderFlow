@@ -85,7 +85,9 @@ docker compose up --build
 ![Login](assets/login.png)
 
 ### Dashboard
-![Dashboard](assets/dashboard.png)
+![Dashboard](assets/dashoboard.png)
+![Dashboard](assets/dashboard1.png)
+![Dashboard](assets/dashboard2.png)
 
 ### AI Order Generation
 ![AI Order](assets/ai-order.png)
